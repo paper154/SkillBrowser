@@ -54,3 +54,5 @@ app = QApplication(sys.argv)
 QApplication.setApplicationName('SkillBrowser')
 window = MainWindow()
 app.exec_()
+
+#code by JohnSkill with tutorial for Programming Hero
